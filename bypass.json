@@ -20,7 +20,7 @@
             ]
         },
      {
-        "Name": "Sex",
+        "Name": "Sex+",
         "Icon": "heart",
         "Content": [
             "wanna get rapped? ❤",
@@ -64,8 +64,67 @@
                 "go use ur dildo u fucking faggot",
                 "go get hard to men faggot"
             ]
-            
-            
+                     },
+        {
+            "Name": "Words+",
+            "Icon": "message-circle",
+            "Content": [
+                "dick",
+                "pussy",
+                "penis",
+                "cock sucker",
+                "dick lover",
+                "nigger",
+                "faggot",
+                "urine",
+                "shit",
+                "blowjob",
+                "footjob",
+                "sex",
+                "clit",
+                "fuck",
+                "fucked",
+                "visit www.pornhub.com",
+                "visit www.xvideos.com",
+                "visit www.xnxx.com",
+                "visit www.blacked.com",
+                "visit www.rule34video.com",
+                "visit www.xhamster.com ",
+                "visit www.brazzerz.com ",
+                "visit www.bangbros.com",
+                "visit www.theporndude.com",
+                "visit www.pornmate.com",
+                "visit www.toppornsites.com",
+                "visit www.iwantporn.net",
+                "visit www.tblop.com",
+                "visit https://mypornbible.com",
+            ]
+                          },
+        {
+            "Name": "Games+",
+            "Icon": "gamepad-2",
+            "Content": [
+                "bro ur straight up ass",
+                "how does this retard fuck up that bad 😭",
+                "holy shit that was easy as fuck",
+                "lol ez get better shithead",
+                "how does this fucking retard not know how to play LOL",
+                "holy shit ur ass get outa here retard",
+                "get the fuck outa my lobby fucking retard",
+                "bro ask ur father to get some aim for you since hes getting milk 😭😭",
+                "holy shit ur aim is worse than a fucking faggot get better",
+                "fun fact: ur straight up ass at this game",
+                "shut the fuck up ur ass u know nothing"
+            ]
+                            },
+        {
+            "Name": "retards",
+            "Icon": "accessibility",
+            "Content": [
+                "holy shit ur retarded",
+                "go back to retard school cunt",
+                "this niggas retarded asf 💀"
+            ]
         }
     ]
 }
